@@ -44,7 +44,7 @@ export default function OrderScreen(props) {
         dispatch(payOrder(order, paymentResult));
     };
    
-    const publicKey = process.env.REACT_APP_API_KEY;
+    const publicKey = REACT_APP_API_KEY;
     const email = userInfo.email;
     const componentProps = {
         email,
