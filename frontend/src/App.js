@@ -38,7 +38,7 @@ function App() {
                 <header class="rows" >
                     <div class="">
                         <Link class="brand"
-                            to="/" > amazona 
+                            to="/" > shop store 
                         </Link>
                     </div >
                     <div class="" >
